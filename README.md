@@ -61,14 +61,6 @@ Key Recommendations
     Collect more granular trip data (e.g., ride duration, passenger demographics).  
     Use AI/ML models for demand forecasting and surge pricing.  
     
-Repository Structure 
-📁 Goodcabs_Performance_Analysis  
- ├── 📄 README.md (This File)  
- ├── 📊 Power BI Dashboard (PBIX File)  
- ├── 📂 Data (CSV Files)  
- ├── 📜 SQL Queries  
- ├── 📸 Screenshots & Reports  
-
 🛠Future Enhancements  
  🚀 Predictive Analytics: Forecast future trips & revenue.  
  📌 Customer Segmentation: Identify top spenders & frequent users.  
